@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iulianipalmarii00grengoog_0018.png"; bbox 0 0 2575 4375; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 300 514 1207 962">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 300 514 1210 962">
+     <span class='ocr_line' id='line_1_1' title="bbox 308 514 1022 595; baseline 0.008 -22"><span class='ocrx_word' id='word_1_1' title='bbox 308 592 311 595; x_wconf 13' lang='lat'>⁵</span> <span class='ocrx_word' id='word_1_2' title='bbox 438 514 674 575; x_wconf 65' lang='lat' dir='ltr'>mmm</span> <span class='ocrx_word' id='word_1_3' title='bbox 732 520 1022 583; x_wconf 68' lang='lat' dir='ltr'>PALMARH</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 302 598 1135 730; baseline 0.014 -42"><span class='ocrx_word' id='word_1_4' title='bbox 302 598 853 710; x_wconf 66' lang='lat' dir='ltr'>ferentias,reetun1vtend1</span> <span class='ocrx_word' id='word_1_5' title='bbox 877 614 1052 700; x_wconf 84' lang='lat' dir='ltr'><strong>modum</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1067 644 1135 730; x_wconf 73' lang='lat' dir='ltr'>at·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 308 724 1132 844; baseline 0.014 -38"><span class='ocrx_word' id='word_1_7' title='bbox 308 724 1132 844; x_wconf 67' lang='lat' dir='ltr'>queetiamincommodaqu³am·breu1·ffi-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 300 836 1207 962; baseline 0.015 -36"><span class='ocrx_word' id='word_1_8' title='bbox 300 836 527 959; x_wconf 44' lang='lat' dir='ltr'>„me-potero</span> <span class='ocrx_word' id='word_1_9' title='bbox 534 847 790 962; x_wconf 76' lang='lat' dir='ltr'>perscribam,</span> <span class='ocrx_word' id='word_1_10' title='bbox 804 848 932 937; x_wconf 66' lang='lat' dir='ltr'>{zvino</span> <span class='ocrx_word' id='word_1_11' title='bbox 940 854 1115 946; x_wconf 63' lang='lat' dir='ltr'>exorsus,</span> <span class='ocrx_word' id='word_1_12' title='bbox 1158 929 1160 934; x_wconf 74' lang='grc'>,</span> <span class='ocrx_word' id='word_1_13' title='bbox 1205 875 1207 904; x_wconf 80' lang='lat'>³</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1292 4375">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1292 4375">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1292 4375; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1292 4375; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
